@@ -30,7 +30,9 @@ const projects = [
 const highlights = [
   { label: 'Location', value: 'Poland, PL' },
   { label: 'Focus', value: 'Fullstack Devloper + AI ' },
-  { label: 'Availability', value: 'Open for projects/Jobs' },
+  { label: 'Availability', value: 'Open for Projects/Jobs' },
+  { label: 'Front-end:', value: 'React, JavaScript, Tailwind, HTML/CSS, AWS Amplify' },
+  { label: 'Back-end:', value: 'Node.js, AWS, API Gateway, AWS Lambda, SNS, DynamoDB' },
 ]
 
 const services = [
@@ -103,14 +105,7 @@ function App() {
                 </div>
               ))}
             </div>
-            <div>
-              <p className="text-xs uppercase tracking-[0.3em] text-zinc-500">
-                Stack
-              </p>
-              <p className="text-sm text-zinc-300">
-                 React, Tailwind, 
-              </p>
-            </div>
+
           </div>
         </section>
 
