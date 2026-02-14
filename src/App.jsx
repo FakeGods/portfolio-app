@@ -28,9 +28,9 @@ const projects = [
 ]
 
 const highlights = [
-  { label: 'Location', value: 'Portland, OR' },
-  { label: 'Focus', value: 'Product design + UI engineering' },
-  { label: 'Availability', value: 'Open to select freelance' },
+  { label: 'Location', value: 'Poland, PL' },
+  { label: 'Focus', value: 'Fullstack Devloper + AI ' },
+  { label: 'Availability', value: 'Open for projects/Jobs' },
 ]
 
 const services = [
@@ -65,7 +65,7 @@ function App() {
         <section className="grid gap-12 md:grid-cols-[1.2fr_0.8fr]">
           <div className="space-y-6">
             <p className="text-sm uppercase tracking-[0.35em] text-zinc-400">
-              Portfolio 2026
+              Portfolio 
             </p>
             <h1 className="text-4xl font-semibold text-white sm:text-5xl">
               I design calm, confident product experiences for modern teams.
@@ -108,7 +108,7 @@ function App() {
                 Stack
               </p>
               <p className="text-sm text-zinc-300">
-                Figma, React, Tailwind, Framer, Notion
+                 React, Tailwind, 
               </p>
             </div>
           </div>
@@ -175,9 +175,9 @@ function App() {
             <div className="flex flex-wrap items-center gap-4">
               <a
                 className="inline-flex items-center justify-center rounded-full bg-white px-5 py-2 text-sm font-semibold text-zinc-900"
-                href="mailto:hello@studio.com"
+                href="mailto:w.leszkowicz99@gmail.com"
               >
-                hello@studio.com
+                w.leszkowicz99@gmail.com
               </a>
               <p className="text-sm text-zinc-400">
                 Share a quick brief and timeline, and I will get back within 48
