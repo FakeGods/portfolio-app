@@ -134,7 +134,7 @@ function App() {
             </div>
           </Section>
 
-          <Section id="experience" eyebrow="Experience" title="Where I have led">
+          <Section id="experience" eyebrow="Experience" title="Where I have worked">
             <div className="space-y-4">
               {experience.map((item) => (
                 <div
